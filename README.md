@@ -191,4 +191,9 @@ Open with Excel, Google Sheets, or any spreadsheet software.
 
 ---
 
+## 🚀 Download Application
+[Download Expense Tracker](https://github.com/Gahlawat-9/expense-tracker-java/releases/tag/v1.0)
+
+---
+
 *Built with ❤️ using Java 11, Swing, and JFreeChart*
